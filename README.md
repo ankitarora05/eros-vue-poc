@@ -1,4 +1,4 @@
-# router-app
+# Vue POC
 
 > A Vue.js project
 
